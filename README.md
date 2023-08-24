@@ -1,16 +1,29 @@
-### Hi there 👋
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 練氣士
 
-<!--
-**hongfaqiu/hongfaqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
 
-Here are some ideas to get you started:
+对前端感兴趣，立志成为一名优秀的全栈工程师。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前为 DDE (Deep Time Digital Earth) 深时数字地球国际大科学计划工作。
+
+我的常用邮箱 <951142905@qq.com>
+
+## About Me
+
+I am interested in front-end development and aspire to become an excellent full-stack engineer.
+
+Currently, I am working for the DDE (Deep Time Digital Earth) International Grand Science Program.
+
+My regular email is <951142905@qq.com>.
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
+![Nest.js](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestjs&logoColor=E0234E)
+
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=hongfaqiu&show_icons=true&theme=buefy&hide_border=true" alt="" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongfaqiu&layout=compact&theme=buefy&hide_border=true" alt="" />
+| - | - |
