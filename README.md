@@ -4,15 +4,11 @@
 
 对前端感兴趣，立志成为一名优秀的全栈工程师。
 
-目前为 DDE (Deep Time Digital Earth) 深时数字地球国际大科学计划工作。
-
 我的常用邮箱 <951142905@qq.com>
 
 ## About Me
 
 I am interested in front-end development and aspire to become an excellent full-stack engineer.
-
-Currently, I am working for the DDE (Deep Time Digital Earth) International Grand Science Program.
 
 My regular email is <951142905@qq.com>.
 
