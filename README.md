@@ -21,5 +21,6 @@ My regular email is <951142905@qq.com>.
 ![Nest.js](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestjs&logoColor=E0234E)
 
 
-|<img align="center" src="https:/readme-stats-sand-eight.vercel.app/api?username=hongfaqiu&show_icons=true&theme=buefy&hide_border=true" alt="" />|<img align="center" src="https://readme-stats-sand-eight.vercel.app/api/top-langs/?username=hongfaqiu&layout=compact&theme=buefy&hide_border=true" alt="" />
-| - | - |
+| <img align="center" src="https://readme-stats-sand-eight.vercel.app/api?username=hongfaqiu&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://readme-stats-sand-eight.vercel.app/api/top-langs/?username=hongfaqiu&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| :-: | :-: |
+
